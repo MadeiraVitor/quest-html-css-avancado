@@ -38,7 +38,7 @@
 
 @media (max-width: 480px) {
     .container {
-        padding: 20px 20px;
+        padding: 0px 20px;
     }
 
     .logo {
@@ -50,6 +50,7 @@
         align-items: center;
         text-align: center;
         margin-top: 10px;
+        margin-bottom: 30px;
     }
 
     .main .sobre {
@@ -58,6 +59,14 @@
 
     .main .sobre h1 {
         font-size: 20px;
+    }
+
+    .main .sobre p {
+        margin-top: 10px;
+    }
+
+    .main .sobre .btn-register {
+        margin-top: 10px;
     }
 
     .ilustracao img {
